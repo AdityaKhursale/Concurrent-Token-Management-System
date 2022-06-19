@@ -1,0 +1,8 @@
+Create Request: id=7
+Write Request: id=7, -name=a7, low=0, mid=100000, high=5000000
+Server Response: Token created with id: 7
+Read Request: id=7
+Server Response: Token updated with partial value: 64186539965955
+Drop Request: id=7
+Server Response: Token updated with final value: 7214997352618
+Server Response: Token dropped with id: 7
